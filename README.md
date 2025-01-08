@@ -1,8 +1,3 @@
-```
-npm install
-npm run dev
-```
 
-```
-npm run deploy
-```
+demo : https://my-cloudflare-chatbot.anbi2682006.workers.dev/
+
